@@ -1,0 +1,15 @@
+[
+{"url":"agudos/04frageaag.wav","type":"audio","bank":"aereador","n:0},
+{"url":"agudos/06frageaag.wav","type":"audio","bank":"motor","n:0},
+{"url":"agudos/07frageaag.wav","type":"audio","bank":"const","n:0},
+{"url":"agudos/08frageaag.wav","type":"audio","bank":"ta ta","n:0},
+{"url":"agudos/12frageaag.wav","type":"audio","bank":"sucio","n:0},
+{"url":"agudos/13frageaag.wav","type":"audio","bank":"graznido","n:0},
+  {"url":"medio/01frageamed.wav","type":"audio","bank":"mic1","n:0},
+  {"url":"medio/02frageamed.wav","type":"audio","bank":"mic2","n:0},
+  {"url":"medio/05frageamed.wav","type":"audio","bank":"mic3","n:0},
+  {"url":"medio/09frageamed.wav","type":"audio","bank":"percutor","n:0},
+    {"url":"grave/10frageagr.wav","type":"audio","bank":"bate","n:0},
+     {"url":"efectos/11frageamed.wav","type":"audio","bank":"barrido","n:0},  
+      {"url":"ambiente/03frageamed.wav","type":"audio","bank":"agua1","n:0}
+  }
