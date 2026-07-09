@@ -1,2 +1,0 @@
-# stres
-sonidos taller tres
